@@ -43,3 +43,35 @@
 }
 
 /* about me page */
+
+#about-head{
+  text-align: center;
+}
+
+#about-content{
+  display: flex;
+  margin: 20px;
+}
+
+#about-img{
+  height: 200px;
+  
+}
+
+#about-text{
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+/* portfolio page */
+
+#port{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.projectCard{
+  margin: 10px;
+}
+
